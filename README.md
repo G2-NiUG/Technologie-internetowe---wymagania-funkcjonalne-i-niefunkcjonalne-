@@ -41,7 +41,4 @@ Data Factory - automatyczne importowanie logów z aplikacji, synchronizowanie da
 Power BI - tworzenie dashboardów z projektami, danymi technicznymi, danymi finansowymi
 Copilot in Fabric - wsparcie sztucznej inteligencji w projekcie, tworzenie 
 
-git add .
-git commit -m "Added functional and non-functional requirements"
-git push
 
